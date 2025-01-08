@@ -1,16 +1,16 @@
-## Hi there 👋
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="28px"> Hello! I'm Chandransh. 
+</h3>
 
-<!--
-**moonfraction/moonfraction** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Third Year Undergraduate Student at IIT Kharagpur
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chandransh-singh/)
+<hr>
 
-Here are some ideas to get you started:
+### Languages
+<p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,tailwind" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![Moonfraction's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonfraction)](https://github.com/moonfraction/github-readme-stats)-->
+
+[![Visits Badge](https://badges.pufler.dev/visits/moonfraction/moonfraction)](https://josedromero.com)
