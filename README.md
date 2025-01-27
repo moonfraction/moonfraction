@@ -1,4 +1,4 @@
-<img src="src/wall.jpg" alt="Wall Image" />
+<img src="src/wall-min.jpg" alt="Wall Image" />
 
 
 <h2 align="center">
