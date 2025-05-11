@@ -22,9 +22,10 @@
 
 
 <!--[![Moonfraction's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonfraction)](https://github.com/moonfraction/github-readme-stats)-->
-
+<!--
 <p align="center">
   <a href="https://josedromero.com">
     <img src="https://badges.pufler.dev/visits/moonfraction/moonfraction" alt="Visits Badge" />
   </a>
 </p>
+-->
