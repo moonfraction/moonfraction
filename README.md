@@ -13,7 +13,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts" />
 </p>
 
 <p align="center">
