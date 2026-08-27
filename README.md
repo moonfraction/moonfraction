@@ -6,7 +6,7 @@
 </h2>
 
 <p align="center">
-  <b>🎓 Fourth Year Undergraduate Student at IIT Kharagpur</b><br>
+  <b>🎓 Student at IIT Kharagpur</b><br>
   <b>📫 How to reach me: <a href="https://www.linkedin.com/in/chandransh-singh/">LinkedIn</a></b>
 </p>
 <hr>
